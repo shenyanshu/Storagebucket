@@ -1,0 +1,62 @@
+# 模糊抓取订阅链接
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+
+- type: subscribe
+  options:
+    url: https://github.com/colatiger/v2ray-nodes/raw/master/proxy.md
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/v2ray.txt
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
+
+# 网页模糊抓取
+- type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+
+- type: webfuzz
+  options:
+    url: https://view.freev2ray.org
+
+# tg频道抓取
+- type: tgchannel
+  options:
+    channel: ssrList
+    num: 200
+
+# 翻墙党论坛抓取
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
+
+# clash格式订阅链接
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+
+- type: clash
+  options:
+    url: https://zyzmzyz.netlify.app/Clash.yml
+
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
+
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
+
+# 某个网站抓取
+- type: web-freessrxyz
+  options:
