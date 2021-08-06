@@ -5,9 +5,9 @@ port:                 # default 12580
 # source list file
 source-files:
   # use local file
-  - ./config/source.yaml
+  # - ./config/source.yaml
   # use web file
-  # - https://example.com/config/source.yaml
+  - https://raw.githubusercontent.com/shenyanshu/Storagebucket/main/source.yaml
 
 # ======= 可选项，留空使用default值  ======= #
 
