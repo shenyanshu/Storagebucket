@@ -68,6 +68,12 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
 
 # 某个网站抓取
 - type: web-freessrxyz
