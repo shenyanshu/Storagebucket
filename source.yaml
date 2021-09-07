@@ -1,41 +1,70 @@
 # 模糊抓取订阅链接
-#- type: webfuzzsub
-#  options:
-#    url: https://raw.githubusercontent.com/du5/free/master/sub.list
-
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/Army121/New-Vpn/VPN/%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.txt
 
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+    url: https://raw.githubusercontent.com/freex-man/subscribeX/main/v2ray-4697
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/thnyc88/subscribe/main/v2ray
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/chen742403639/v2ray-Node/main/README.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Army121/New-Vpn/VPN/free907
+- type: subscribe
+  options:
+    url: https://jiang.netlify.app/
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app/
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/StormragerCN/v2ray/main/v2ray
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+    
+    
 
 # 网页模糊抓取
 - type: webfuzz
   options:
-    url: https://merlinblog.xyz/wiki/freess.html
+    url: https://www.freevpnnet.com/
+ - type: webfuzz
+  options:
+    url: https://view.freev2ray.org/
 
 - type: webfuzz
   options:
-    url: https://view.freev2ray.org
 
 # tg频道抓取
 - type: tgchannel
   options:
-    channel: ssrList
-    num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
-    url: https://fanqiangdang.com/forum-48-1.html
 
 # clash格式订阅链接
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://etproxypool.ga/clash/proxies?type=vmess
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/Rokate/Proxy-Sub@main/clash/clash_v2ray.yml
 
 # 某个网站抓取
 - type: web-freessrxyz
