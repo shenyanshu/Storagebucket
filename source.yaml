@@ -3,6 +3,10 @@
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/Army121/New-Vpn/VPN/%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80.txt
+
 # 订阅链接
 - type: subscribe
   options:
@@ -27,6 +31,24 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/main/Eternity
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freex-man/subscribeX/main/link_url-16725
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freex-man/subscribeX/main/v2ray-16725
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/deepinor/v2ray_luck/master/sub.txt
+
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+
+
 
 # 网页模糊抓取
 - type: webfuzz
