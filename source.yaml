@@ -65,6 +65,9 @@
 - type: clash
   options:
     url: https://cdn.jsdelivr.net/gh/Rokate/Proxy-Sub@main/clash/clash_v2ray.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/clash.provider.yaml
 
 # 某个网站抓取
 - type: web-freessrxyz
