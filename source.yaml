@@ -24,6 +24,10 @@
   options:
     url: https://git.io/emzv2ray
 
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/main/Eternity
+
 # 网页模糊抓取
 - type: webfuzz
   options:
