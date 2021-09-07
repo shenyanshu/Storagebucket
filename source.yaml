@@ -43,7 +43,7 @@
 - type: webfuzz
   options:
     url: https://www.freevpnnet.com/
- - type: webfuzz
+- type: webfuzz
   options:
     url: https://view.freev2ray.org/
 
