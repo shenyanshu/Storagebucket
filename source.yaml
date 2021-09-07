@@ -44,12 +44,6 @@
   options:
     url: https://raw.githubusercontent.com/deepinor/v2ray_luck/master/sub.txt
 
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
-
-
-
 # 网页模糊抓取
 - type: webfuzz
   options:
