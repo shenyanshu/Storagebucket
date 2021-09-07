@@ -1,7 +1,7 @@
 # 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: https://raw.githubusercontent.com/du5/free/master/sub.list
+#- type: webfuzzsub
+#  options:
+#    url: https://raw.githubusercontent.com/du5/free/master/sub.list
 
 - type: webfuzzsub
   options:
@@ -11,38 +11,6 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-
-- type: subscribe
-  options:
-    url: https://github.com/colatiger/v2ray-nodes/raw/master/proxy.md
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/v2ray.txt
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
-
-- type: subscribe
-  options:
-    url: https://git.io/emzv2ray
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/main/Eternity
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/freex-man/subscribeX/main/link_url-16725
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/freex-man/subscribeX/main/v2ray-16725
-
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/deepinor/v2ray_luck/master/sub.txt
 
 # 网页模糊抓取
 - type: webfuzz
