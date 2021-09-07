@@ -20,6 +20,10 @@
   options:
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 
+- type: subscribe
+  options:
+    url: https://git.io/emzv2ray
+
 # 网页模糊抓取
 - type: webfuzz
   options:
@@ -44,18 +48,6 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-
-- type: clash
-  options:
-    url: https://zyzmzyz.netlify.app/Clash.yml
-
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
-
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
 
 # 某个网站抓取
 - type: web-freessrxyz
