@@ -36,6 +36,34 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+- type: subscribe
+  options:
+    url: https://v2ray.banyunxiaoxi.ml/
+- type: subscribe
+  options:
+    url: http://ss.pythonic.life/subscribe
+- type: subscribe
+  options:
+    url: https://muma16fx.netlify.app/
+- type: subscribe
+  options:
+    url: https://qiaomenzhuanfx.netlify.app/
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/voken100g/AutoSSR/master/online
+- type: subscribe
+  options:
+    url: https://youlianboshi.netlify.app/
+- type: subscribe
+  options:
+    url: http://ss.pythonic.life/full/subscribe
+- type: subscribe
+  options:
+    url: https://cdn.jsdelivr.net/gh/colatiger/v2ray-nodes/proxy.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
+    
     
     
 
@@ -46,6 +74,9 @@
 - type: webfuzz
   options:
     url: https://view.freev2ray.org/
+- type: webfuzz
+  options:
+    url: https://github.com/JACKUSR2089/v2ray-subscribed
 
 - type: webfuzz
   options:
@@ -53,6 +84,24 @@
 # tg频道抓取
 - type: tgchannel
   options:
+    channel: ssrshares
+    num: 200
+- type: tgchannel
+  options:
+    channel: freeshadowsock
+    num: 200
+- type: tgchannel
+  options:
+    channel: ripaojiedian
+    num: 200
+- type: tgchannel
+  options:
+    channel: baipiaojiedian
+    num: 200
+- type: tgchannel
+  options:
+    channel: FreeSSRNode
+    num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
@@ -74,6 +123,9 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/Rokate/Proxy-Sub@main/clash/clash_ssr.yml
 
 # 某个网站抓取
 - type: web-freessrxyz
