@@ -1,6 +1,7 @@
 # 模糊抓取订阅链接
 - type: webfuzzsub
   options:
+    url: https://www.winxray.com/%e5%85%8d%e8%b4%b9%e8%8a%82%e7%82%b9
 
 # 订阅链接
 - type: subscribe
@@ -79,6 +80,9 @@
 - type: webfuzz
   options:
     url: https://github.com/JACKUSR2089/v2ray-subscribed
+- type: webfuzz
+  options:
+    url: http://www.trojanfree.com/
 
 - type: webfuzz
   options:
