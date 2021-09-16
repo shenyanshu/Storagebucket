@@ -63,7 +63,9 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/ssr
-    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
     
     
 
@@ -101,6 +103,18 @@
 - type: tgchannel
   options:
     channel: FreeSSRNode
+    num: 200
+- type: tgchannel
+  options:
+    channel: ttkkok
+    num: 200
+- type: tgchannel
+  options:
+    channel: baipiaoxiaozu
+    num: 200
+- type: tgchannel
+  options:
+    channel: mtproxy666
     num: 200
 
 # 翻墙党论坛抓取
