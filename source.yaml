@@ -120,6 +120,10 @@
   options:
     channel: mtproxy666
     num: 200
+- type: tgchannel
+  options:
+    channel: dangzhibu
+    num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
