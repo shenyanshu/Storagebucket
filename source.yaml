@@ -148,6 +148,9 @@
 - type: clash
   options:
     url: https://cdn.jsdelivr.net/gh/Rokate/Proxy-Sub@main/clash/clash_ssr.yml
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/Rokate/Proxy-Sub@main/clash/clash_trojan.yml
 
 # 某个网站抓取
 - type: web-freessrxyz
