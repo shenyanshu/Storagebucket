@@ -67,6 +67,9 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
+- type: subscribe
+  options:
+    url: http://v2.vv999.top/qun262349039/
     
     
 
