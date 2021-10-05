@@ -154,6 +154,39 @@
 - type: clash
   options:
     url: https://cdn.jsdelivr.net/gh/Rokate/Proxy-Sub@main/clash/clash_trojan.yml
+- type: clash
+  options:
+    url: https://emby.luoml.eu.org/clash/proxies?type=vmess,trojan,ssr
+- type: clash
+  options:
+    url: https://sspool.nl/clash/proxies?type=ssr,vmess,trojan
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/proxies?type=vmess,trojan,ssr
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/proxies?type=vmess,trojan,ssr
+- type: clash
+  options:
+    url: https://sspool.nl/clash/proxies?type=vmess,trojan,ssr
+- type: clash
+  options:
+    url: https://etproxypool.ga/clash/proxies?type=vmess,trojan,ssr
+- type: clash
+  options:
+    url: https://fq.lonxin.net/clash/proxies?type=vmess,trojan,ssr
+- type: clash
+  options:
+    url: https://free.kingfu.cf/clash/proxies?type=vmess,trojan,ssr
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/Rokate/Proxy-Sub@main/clash/clash_trojan.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_ssr.yml
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/Rokate/Proxy-Sub/main/clash/clash_v2ray.yml
 
 # 某个网站抓取
 - type: web-freessrxyz
