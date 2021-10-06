@@ -73,6 +73,9 @@
 - type: subscribe
   options:
     url: http://v2.vv999.top/qun262349039/
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/changfengoss/pub/main/data/2021_10_06/fnHwyV.txt
     
     
 
