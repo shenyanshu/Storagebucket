@@ -76,6 +76,9 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/changfengoss/pub/main/data/2021_10_06/fnHwyV.txt
+- type: subscribe
+  options:
+    url: https://raw.fastgit.org/freefq/free/master/v2
     
     
 
