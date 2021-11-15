@@ -5,6 +5,9 @@
 - type: webfuzzsub
   options:
     url: https://merlinblog.xyz/wiki/freess.html
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/Helpsoftware/fanqiang/master/README.md
 
 # 订阅链接
 - type: subscribe
