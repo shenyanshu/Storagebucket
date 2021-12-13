@@ -82,6 +82,18 @@
 - type: subscribe
   options:
     url: https://raw.fastgit.org/freefq/free/master/v2
+- type: subscribe
+  options:
+    url: https://dllx.tk/GreenFishStream
+- type: subscribe
+  options:
+    url: https://dllx.tk/GreenFishYYDS
+- type: subscribe
+  options:
+    url: https://dllx.tk/GreenFishTemp
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ThekingMX1998/free-v2ray-code/master/Subscription/GreenFishStream
     
     
 
